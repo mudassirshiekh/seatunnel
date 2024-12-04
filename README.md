@@ -42,6 +42,7 @@ SeaTunnel addresses common data integration challenges:
 - **Quality and Monitoring**: Provides data quality and monitoring to prevent data loss or duplication.
 
 ## Key Features
+## By Mudassir Alam
 
 - **Diverse Connectors**: Offers support for over 100 connectors, with ongoing expansion.
   
